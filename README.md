@@ -6,4 +6,7 @@ Projeto de réplica da página de login do Instagram. Desenvolvido como atividad
   - Editor de imagens: Gimp;
   - Ferramenta de versionamento de código: Git.
 
-![image](https://user-images.githubusercontent.com/102427205/176064962-e02b11e5-a356-457e-950b-9b4f6a6fdb62.png)
+![image](https://user-images.githubusercontent.com/102427205/176076247-8ccd7b63-0b89-45d8-85f3-0e83cc75b2ba.png)
+
+![image](https://user-images.githubusercontent.com/102427205/176076299-608a229f-a123-4735-8feb-6dedfa2ad058.png)
+
